@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Moniessh
 - 👀 I’m interested in anything related to coding and problem solving
-- 🌱 I’m currently learning JDBC 
+- Trained in MEAN & MERN Full Stack development
+- 🌱 I’m currently learning .NET - C#,SQL,ASP.NET WebAPI's 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : moniessh@gmail.com 
 <!---
